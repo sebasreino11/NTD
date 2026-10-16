@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+
+anomalies.csv
+hosts.csv
+
+docs/superpowers/
+.superpowers/
+.claude/
+.hallucinating-canary.json
+
+.DS_Store
